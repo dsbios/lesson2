@@ -4,6 +4,6 @@ services:
     image: dsbios/lesson2:latest
     restart: always
     environment:
-      TEXT: "MAT2"
+      TEXT: "SWEARS!"
     ports:
       - "8080:5000"
